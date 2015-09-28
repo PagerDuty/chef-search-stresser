@@ -1,4 +1,5 @@
 # chef-search-stresser
+[![TravisCI Build Status](https://img.shields.io/travis/PagerDuty/chef-search-stresser/master.svg?style=flat)](https://travis-ci.org/PagerDuty/chef-search-stresser)
 
 `chef-search-stresser` is a utility used to stress the Chef server with a high
 number of concurrent searches. It's especially helpful when you have searches
